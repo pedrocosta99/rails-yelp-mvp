@@ -1,2 +1,0 @@
-class Guideline < ApplicationRecord
-end
